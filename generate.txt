@@ -1,0 +1,152 @@
+
+    ////-------------- Persist INIT ---------------------
+    //EMIC:setInput(DEV:_main/baremetal/persistInit.emic)
+
+    //-------------- Hardware Config ---------------------
+
+    //------------------- Process EMIC-Generate files result ----------------
+
+// Functions:
+
+
+// Events:
+
+
+    //------------------- APIs -----------------------
+    // LED indicador
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // Timer
+
+
+
+
+
+
+
+
+
+
+    // LoadCell - API principal para sensor de peso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==================[end of file]============================================*/
+
+
+
+
+/*==================[end of file]============================================*/
+
+
+    // EMIC Bus
+    //------------------- EMIC bus device ID (myId.h, consumido por I2C_driver) ----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // Persistencia
+
+
+
+
+
+
+
+    //-------------------- main  -----------------------
+
+
+
+
+
+
+
+
+
+
+
+    //------------------- Copy EMIC-Generate files result ----------------
+
+    //------------------- Set userFncFile.c as a compiler module ----------------
+
+    ////-------------- Persist END ---------------------
+    //EMIC:setInput(DEV:_main/baremetal/persistEnd.emic)
+
+    //------------------- Add all compiler modules to the project ----------------
+
