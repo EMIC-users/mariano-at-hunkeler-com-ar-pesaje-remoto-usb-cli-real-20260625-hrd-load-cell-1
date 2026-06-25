@@ -14,7 +14,7 @@
 void onReset()
 {
     LEDs_Led1_blink(100, 500, 3);
-    setFormat(8, 2, " ");
+    setFormat(8, 2, 32);
     setCapacity(100.0);
     setmVxV(2.0);
     startWeighing();

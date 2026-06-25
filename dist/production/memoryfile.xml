@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="C:/Dropbox/EMIC/TARGETS/mariano__hunkeler.com.ar/Pesaje_Remoto_USB_CLI_Real_20260625/HRD_LOAD_CELL_1\dist\production\target.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>1600</used>
+      <free>6592</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>65274</length>
+      <used>37872</used>
+      <free>27402</free>
+    </memory>
+  </executable>
+</project>
